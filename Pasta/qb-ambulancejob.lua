@@ -122,8 +122,8 @@ local Translations = {
         checking_in = 'Avaliando...',
     },
     logs = {
-        death_log_title = "%{playername} (%{playerid}) is dead",
-        death_log_message = "%{killername} has killed %{playername} with a **%{weaponlabel}** (%{weaponname})",
+        death_log_title = "%{playername} (%{playerid}) morreu",
+        death_log_message = "%{killername} matou %{playername} com uma **%{weaponlabel}** (%{weaponname})",
     }
 }
 
