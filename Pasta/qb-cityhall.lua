@@ -1,28 +1,28 @@
 local Translations = {
     error = {
-        not_in_range = 'Too far from the city hall'
+        not_in_range = 'Muito longe da prefeitura'
     },
     success = {
         recived_license = 'You have recived your %{value} for $50'
     },
     info = {
-        new_job_app = 'Your application was sent to the boss of (%{job})',
-        bilp_text = 'City Services',
-        city_services_menu = '~g~E~w~ - City Services Menu',
-        id_card = 'ID Card',
-        driver_license = 'Drivers License',
-        weaponlicense = 'Firearms License',
-        new_job = 'Congratulations with your new job! (%{job})',
+        new_job_app = 'Sua inscrição foi enviada para o chefe de (%{job})',
+        bilp_text = 'Serviços da Cidade',
+        city_services_menu = '~g~E~w~ - Menu de Serviços da Cidade',
+        id_card = 'Carteira de Identidade',
+        driver_license = 'Carteira de Motorista',
+        weaponlicense = 'Licença de Armas de Fogo',
+        new_job = 'Parabéns pelo seu novo emprego! (%{job})',
     },
     email = {
         jobAppSender = "%{job}",
-        jobAppSub = "Thank you for applying to %(job).",
-        jobAppMsg = "Hello %{gender} %{lastname}<br /><br />%{job} has received your application.<br /><br />The boss is looking into your request and will reach out to you for an interview at their earliest convenience.<br /><br />Once again, thank you for your application.",
-        mr = 'Mr',
-        mrs = 'Mrs',
-        sender = 'Township',
-        subject = 'Driving lessons request',
-        message = 'Hello %{gender} %{lastname}<br /><br />We have just received a message that someone wants to take driving lessons<br />If you are willing to teach, please contact us:<br />Name: <strong>%{firstname} %{lastname}</strong><br />Phone Number: <strong>%{phone}</strong><br/><br/>Kind regards,<br />Township Los Santos'
+        jobAppSub = "Obrigado por se candidatar a %(job).",
+        jobAppMsg = "Olá %{gender} %{lastname}<br /><br />%{job} recebeu sua inscrição.<br /><br />O chefe está analisando sua solicitação e entrará em contato para uma entrevista assim que possível.<br /><br />Mais uma vez, obrigado pela sua inscrição.",
+        mr = 'Sr',
+        mrs = 'Sra',
+        sender = 'Prefeitura',
+        subject = 'Pedido de aulas de direção',
+        message = 'Olá %{gender} %{lastname}<br /><br />Acabamos de receber uma mensagem de alguém interessado em fazer aulas de direção.<br />Se você estiver disposto(a) a ensinar, por favor, entre em contato conosco:<br />Nome: <strong>%{firstname} %{lastname}</strong><br />Número de Telefone: <strong>%{phone}</strong><br/><br/>Atenciosamente,<br />Prefeitura de São Paulo'
     }
 }
 
