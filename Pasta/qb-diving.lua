@@ -1,36 +1,36 @@
 local Translations = {
     error = {
-        ["canceled"] = "Canceled",
-        ["911_chatmessage"] = "911 MESSAGE",
-        ["take_off"] = "/divingsuit to take off your diving suit",
-        ["not_wearing"] = "You are not wearing a diving gear ..",
-        ["no_coral"] = "You don't have any coral to sell..",
-        ["not_standing_up"] = "You need to be standing up to put on the diving gear",
-        ["need_otube"] = "you need oxygen tube",
-        ["oxygenlevel"] = 'the gear level is %{oxygenlevel} must be 0%'
+        ["canceled"] = "Cancelado",
+        ["911_chatmessage"] = "190 MESSAGEM",
+        ["take_off"] = "/divingsuit para tirar sua roupa de mergulho",
+        ["not_wearing"] = "Você não está usando um equipamento de mergulho..",
+        ["no_coral"] = "Você não tem nenhum coral para vender..",
+        ["not_standing_up"] = "Você precisa estar em pé para colocar o equipamento de mergulho",
+        ["need_otube"] = "você precisa de um tubo de oxigênio",
+        ["oxygenlevel"] = 'o nível de oxigênio do equipamento é %{oxygenlevel} e deve estar em 0%'
     },
     success = {
-        ["took_out"] = "You took your wetsuit off",
-        ["tube_filled"] = "The tube has been filled successfully"
+        ["took_out"] = "Você tirou sua roupa de mergulho",
+        ["tube_filled"] = "O tubo foi preenchido com sucesso"
     },
     info = {
-        ["collecting_coral"] = "Collecting coral",
-        ["diving_area"] = "Diving Area",
-        ["collect_coral"] = "Collect coral",
-        ["collect_coral_dt"] = "[E] - Collect Coral",
-        ["checking_pockets"] = "Checking Pockets To Sell Coral",
-        ["sell_coral"] = "Sell Coral",
-        ["sell_coral_dt"] = "[E] - Sell Coral",
-        ["blip_text"] = "911 - Dive Site",
-        ["put_suit"] = "Put on a diving suit",
-        ["pullout_suit"] = "Pull out a diving suit ..",
-        ["cop_msg"] = "This coral may be stolen",
-        ["cop_title"] = "Illegal diving",
-        ["command_diving"] = "Take off your diving suit",
+        ["collecting_coral"] = "Coletando coral",
+        ["diving_area"] = "Área de mergulho",
+        ["collect_coral"] = "Coletar coral",
+        ["collect_coral_dt"] = "[E] - Coletar Coral",
+        ["checking_pockets"] = "Verificando bolsos para vender coral",
+        ["sell_coral"] = "Vender coral",
+        ["sell_coral_dt"] = "[E] - Vender Coral",
+        ["blip_text"] = "190 - Local de Mergulho",
+        ["put_suit"] = "Vestir uma roupa de mergulho",
+        ["pullout_suit"] = "Retirar uma roupa de mergulho..", 
+        ["cop_msg"] = "Este coral pode ser roubado",
+        ["cop_title"] = "Mergulho ilegal",
+        ["command_diving"] = "Tire sua roupa de mergulho",
     },
     warning = {
-        ["oxygen_one_minute"] = "You have less than 1 minute of air remaining",
-        ["oxygen_running_out"] = "Your diving gear is running out of air",
+        ["oxygen_one_minute"] = "Você tem menos de 1 minuto de ar restante",
+        ["oxygen_running_out"] = "Seu equipamento de mergulho está ficando sem ar",
     },
 }
 
