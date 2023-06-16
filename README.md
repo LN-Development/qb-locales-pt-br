@@ -1,4 +1,4 @@
 # QB locales PT-BR
 
 
-Traduções feitas por Andradeeee e revisadas por LN-Development
+Traduções feitas por Andradeeeeeee e revisadas por LN-Development
