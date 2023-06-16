@@ -4,7 +4,7 @@ local Translations = {
         ["not_enough_police"] = "Polícia insuficiente...",
         ["door_open"] = "A porta já está aberta...",
         ["process_cancelled"] = "Processo cancelado...",
-        ["didnt_work"] = "It did not work..",
+        ["didnt_work"] = "Não funcionou...",
         ["emty_box"] = "A porta já está aberta...",
     },
     success = {
