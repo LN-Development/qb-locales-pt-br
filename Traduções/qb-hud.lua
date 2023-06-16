@@ -1,21 +1,21 @@
 local Translations = {
     notify = {
-        ["hud_settings_loaded"] = "HUD Settings Loaded!",
-        ["hud_restart"] = "HUD Is Restarting!",
-        ["hud_start"] = "HUD Is Now Started!",
-        ["hud_command_info"] = "This command resets your current HUD settings!",
-        ["load_square_map"] = "Square Map Loading...",
-        ["loaded_square_map"] = "Square Map Has Loaded!",
-        ["load_circle_map"] = "Circle Map Loading...",
-        ["loaded_circle_map"] = "Circle Map Has Loaded!",
-        ["cinematic_on"] = "Cinematic Mode On!",
-        ["cinematic_off"] = "Cinematic Mode Off!",
-        ["engine_on"] = "Engine Started!",
-        ["engine_off"] = "Engine Shut Down!",
-        ["low_fuel"] = "Fuel Level Low!",
-        ["access_denied"] = "You Are Not Authorized!",
-        ["stress_gain"] = "Feeling More Stressed!",
-        ["stress_removed"] = "Feeling More Relaxed!"
+        ["hud_settings_loaded"] = "Configurações da HUD carregadas!",
+        ["hud_restart"] = "A HUD está reiniciando!",
+        ["hud_start"] = "A HUD está reiniciando!",
+        ["hud_command_info"] = "Este comando redefine suas configurações atuais da HUD!",
+        ["load_square_map"] = "Carregando mapa quadrado...",
+        ["loaded_square_map"] = "Mapa quadrado carregado!",
+        ["load_circle_map"] = "Carregando mapa circular...",
+        ["loaded_circle_map"] = "Mapa circular carregado!",
+        ["cinematic_on"] = "Modo cinematográfico ativado!",
+        ["cinematic_off"] = "Modo cinematográfico desativado!",
+        ["engine_on"] = "Motor ligado!",
+        ["engine_off"] = "Motor desligado!",
+        ["low_fuel"] = "Nível de combustível baixo!",
+        ["access_denied"] = "Você não está autorizado!",
+        ["stress_gain"] = "Sentindo-se mais estressado!",
+        ["stress_removed"] = "Sentindo-se mais relaxado!"
     }
 }
 
