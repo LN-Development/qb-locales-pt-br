@@ -17,7 +17,7 @@ local Translations = {
         made_luck_hotdog = 'Você fez %{value} x %{value2} HotDogs',
     },
     info = {
-        command = "Excluir Stand (Somente Admin)",
+        command = 'Excluir Stand (Somente Admin)',
         blip_name = 'Carrinho de Hotdog',
         start_working = '[E] Começar a Trabalhar',
         start_work = 'Começar a Trabalhar',
