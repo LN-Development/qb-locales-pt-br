@@ -1,22 +1,22 @@
 local Translations = {
     error = {
-        ["missing_something"] = "It looks like you are missing something...",
-        ["not_enough_police"] = "Not enough Police..",
-        ["door_open"] = "The door is already open..",
-        ["process_cancelled"] = "Process Canceled..",
+        ["missing_something"] = "Parece que você está esquecendo algo...",
+        ["not_enough_police"] = "Polícia insuficiente...",
+        ["door_open"] = "A porta já está aberta...",
+        ["process_cancelled"] = "Processo cancelado...",
         ["didnt_work"] = "It did not work..",
-        ["emty_box"] = "The Box Is Empty..",
+        ["emty_box"] = "A porta já está aberta...",
     },
     success = {
-        ["worked"] = "It worked!",
+        ["worked"] = "Não funcionou...",
     },
     info = {
-        ["palert"] = "Attempted House Robbery",
-        ["henter"] = "~g~E~w~ - To Enter",
-        ["hleave"] = "~g~E~w~ - To leave house",
+        ["palert"] = "Tentativa de roubo a residência",
+        ["henter"] = "~g~E~w~ - Entrar",
+        ["hleave"] = "~g~E~w~ - Sair da casa",
         ["aint"] = "~g~E~w~ - ",
-        ["hsearch"] = "Searching..",
-        ["hsempty"] = "Empty..",
+        ["hsearch"] = "Procurando...",
+        ["hsempty"] = "Vazio...",
     }
 }
 
