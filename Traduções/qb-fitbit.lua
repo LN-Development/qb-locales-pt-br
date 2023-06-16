@@ -1,11 +1,11 @@
 local Translations = {
     success = {
-        hunger_set = 'Fitbit: Hunger warning set to %{hungervalue}%',
-        thirst_set = 'Fitbit: Thirst warning set to %{thirstvalue}%',
+        hunger_set = 'Fitbit: Aviso de fome definido para %{hungervalue}%',
+        thirst_set = 'Fitbit: Aviso de sede definido para %{thirstvalue}%',
     },
     warning = {
-        hunger_warning = 'Your hunger is %{hunger}%',
-        thirst_warning = 'Your thirst is %{thirst}%'
+        hunger_warning = 'Sua fome está em %{hunger}%',
+        thirst_warning = 'Sua sede está em %{thirst}%'
     },
     info = {
         fitbit = 'FITBIT '
