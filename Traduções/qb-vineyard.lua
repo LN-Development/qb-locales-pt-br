@@ -1,29 +1,29 @@
 local Translations = {
     error = {
-        ["invalid_job"] = "I dont think I work here...",
-        ["invalid_items"] = "You do not have the correct items!",
-        ["no_items"] = "You do not have any items!",
+        ["invalid_job"] = "Acho que não trabalho aqui...",
+        ["invalid_items"] = "Você não tem os itens corretos!",
+        ["no_items"] = "Você não tem nenhum item!",
     },
     progress = {
-        ["pick_grapes"] = "Picking Grapes ..",
-        ["process_grapes"] = "Processing Grapes ..",
+        ["pick_grapes"] = "Colhendo uvas..",
+        ["process_grapes"] = "Processando uvas...",
     },
     task = {
-        ["start_task"] = "[E] To Start",
-        ["load_ingrediants"] = "[E] Load Ingredients",
-        ["wine_process"] = "[E] Start WineProcess",
-        ["get_wine"] = "[E] Get Wine",
-        ["make_grape_juice"] = "[E] Make Grape Juice",
-        ["countdown"] = "Time Remaining %{time}s",
-        ['cancel_task'] = "You have cancelled the task"
+        ["start_task"] = "[E] Para iniciar",
+        ["load_ingrediants"] = "[E] Carregar ingredientes",
+        ["wine_process"] = "[E] Iniciar processo de vinificação",
+        ["get_wine"] = "[E] Pegar vinho",
+        ["make_grape_juice"] = "[E] Fazer suco de uva",
+        ["countdown"] = "Tempo restante %{time}s",
+        ['cancel_task'] = "Você cancelou a tarefa"
     },
     text = {
-        ["start_shift"] = "You have started your shift at the vineyard!",
-        ["end_shift"] = "Your shift at the vineyard has ended!",
-        ["valid_zone"] = "Valid Zone!",
-        ["invalid_zone"] = "Invalid Zone!",
-        ["zone_entered"] = "%{zone} Zone Entered",
-        ["zone_exited"] = "%{zone} Zone Exited",
+        ["start_shift"] = "Você começou seu turno na vinícola!",
+        ["end_shift"] = "Seu turno na vinícola acabou!",
+        ["valid_zone"] = "Zona válida!",
+        ["invalid_zone"] = "Zona inválida!",
+        ["zone_entered"] = "Entrou na Zona %{zone}",
+        ["zone_exited"] = "Saiu da Zona %{zone}",
     }
 }
 
