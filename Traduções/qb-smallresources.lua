@@ -1,63 +1,63 @@
 local Translations = {
     afk = {
-        will_kick = 'You are AFK and will be kicked in ',
-        time_seconds = ' seconds!',
-        time_minutes = ' minute(s)!',
-        kick_message = 'You were kicked for being AFK',
+        will_kick = 'Você está inativo e será expulso em ',
+        time_seconds = ' segundos!',
+        time_minutes = ' minuto(s)!',
+        kick_message = 'Você foi expulso por estar inativo',
     },
     wash = {
-        in_progress = "Vehicle is being washed ..",
-        wash_vehicle = "[E] Wash Vehicle",
-        wash_vehicle_target = "Wash Vehicle",
-        dirty = "The vehicle isn't dirty",
-        cancel = "Washing canceled ..",
+        in_progress = "Veículo está sendo lavado..",
+        wash_vehicle = "[E] Lavar Veículo",
+        wash_vehicle_target = "Lavar Veículo",
+        dirty = "O veículo não está sujo",
+        cancel = "Lavagem cancelada..",
     },
     consumables = {
-        eat_progress = "Eating..",
-        drink_progress = "Drinking..",
-        liqour_progress = "Drinking liquor..",
-        coke_progress = "Quick sniff..",
-        crack_progress = "Smoking crack..",
-        ecstasy_progress = "Pops Pills",
-        healing_progress = "Healing",
-        meth_progress = "Smoking Ass Meth",
-        joint_progress = "Lighting joint..",
-        use_parachute_progress = "Putting on parachute..",
-        pack_parachute_progress = "Packing parachute..",
-        no_parachute = "You dont have a parachute!",
-        armor_full = "You already have enough armor on!",
-        armor_empty = "You're not wearing a vest..",
-        armor_progress = "Putting on the body armour..",
-        heavy_armor_progress = "Putting on body armour..",
-        remove_armor_progress = "Removing the body armour..",
-        canceled = "Canceled..",
+        eat_progress = "Comendo..",
+        drink_progress = "Bebendo..",
+        liqour_progress = "Bebendo licor..",
+        coke_progress = "Cheirando rapidamente..",
+        crack_progress = "Fumando crack..",
+        ecstasy_progress = "Tomando pílulas",
+        healing_progress = "Curando",
+        meth_progress = "Fumando metanfetamina",
+        joint_progress = "Acendendo um baseado..",
+        use_parachute_progress = "Colocando o paraquedas..",
+        pack_parachute_progress = "Empacotando o paraquedas..",
+        no_parachute = "Você não tem um paraquedas!",
+        armor_full = "Você já tem colete suficiente!",
+        armor_empty = "Colocando um colete..",
+        armor_progress = "Colocando o colete",
+        heavy_armor_progress = "Colocando a armadura corporal..",
+        remove_armor_progress = "Removendo a armadura corporal..",
+        canceled = "Cancelado..",
     },
     cruise = {
-        unavailable = "Cruise control unavailable",
-        activated = "Cruise Activated: ",
-        deactivated = "Cruise Deactivated",
+        unavailable = "Cruise control indisponível",
+        activated = "Cruise control ativado: ",
+        deactivated = "Cruise control desativado",
     },
     editor = {
-        started = "Started Recording!",
-        save = "Saved Recording!",
-        delete = "Deleted Recording!",
-        editor = "Later aligator!"
+        started = "Gravação iniciada!",
+        save = "Gravação salva!",
+        delete = "Gravação excluída!",
+        editor = "Até logo, jacaré!"
     },
     firework = {
-        place_progress = "Placing object..",
-        canceled = "Canceled..",
-        time_left = "Firework over ~r~"
+        place_progress = "Colocando objeto...",
+        canceled = "Cancelado..",
+        time_left = "Fogos de artifício acabaram ~r~"
     },
     seatbelt = {
-        use_harness_progress = "Attaching Race Harness",
-        remove_harness_progress = "Removing Race Harness",
-        no_car = "You're not in a car."
+        use_harness_progress = "Colocando Cinto de Segurança",
+        remove_harness_progress = "Removendo Cinto de Segurança",
+        no_car = "Você não está em um carro."
     },
     teleport = {
-        teleport_default = 'Use Elevator'
+        teleport_default = 'Usar Elevador''
     },
     pushcar = {
-        stop_push = "[E] Stop Pushing"
+        stop_push = "[E] Parar de Empurrar"
     }
 
 
