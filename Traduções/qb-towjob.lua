@@ -12,7 +12,7 @@ local Translations = {
         paid_with_cash = "Depósito de R$%{value} pago em dinheiro",
         paid_with_bank = "Depósito de R$%{value} pago pelo banco",
         refund_to_cash = "Reembolso de R$%{value} pago em dinheiro",
-        you_earned = "Você ganhou $%{value}",
+        you_earned = "Você ganhou R$%{value}",
     },
     menu = {
         header = "Caminhões Disponíveis",
