@@ -1,38 +1,38 @@
 local Translations = {
     error = {
-        no_deposit = "$%{value} Deposit Required",
-        cancelled = "Cancelled",
-        vehicle_not_correct = "This is not a commercial vehicle!",
-        no_driver = "You must be the driver to do this..",
-        no_work_done = "You haven't done any work yet..",
-        backdoors_not_open = "The backdoors of the vehicle aren't open",
-        get_out_vehicle = "You need to step out of the vehicle to perform this action",
-        too_far_from_trunk = "You need to grab the boxes from the trunk of your vehicle",
-        too_far_from_delivery = "You need to be closer to the delivery point"
+        no_deposit = "Depósito de R$%{value} necessário",
+        cancelled = "Cancelado",
+        vehicle_not_correct = "Este não é um veículo comercial!",
+        no_driver = "Você precisa ser o motorista para fazer isso..",
+        no_work_done = "Você ainda não fez nenhum trabalho..",
+        backdoors_not_open = "As portas traseiras do veículo não estão abertas",
+        get_out_vehicle = "Você precisa sair do veículo para realizar esta ação",
+        too_far_from_trunk = "Você precisa pegar as caixas do porta-malas do seu veículo",
+        too_far_from_delivery = "Você precisa estar mais próximo ao ponto de entrega"
     },
     success = {
-        paid_with_cash = "$%{value} Deposit Paid With Cash",
-        paid_with_bank = "$%{value} Deposit Paid From Bank",
-        refund_to_cash = "$%{value} Deposit Paid With Cash",
-        you_earned = "You Earned $%{value}",
-        payslip_time = "You Went To All The Shops .. Time For Your Payslip!",
+        paid_with_cash = "Depósito de R$%{value} pago em dinheiro",
+        paid_with_bank = "Depósito de R$%{value} pago da conta bancária",
+        refund_to_cash = "Reembolso de R$%{value} pago em dinheiro",
+        you_earned = "Você ganhou R$%{value}",
+        payslip_time = "Você visitou todas as lojas... Hora do seu contracheque!",
     },
     menu = {
-        header = "Available Trucks",
-        close_menu = "⬅ Close Menu",
+        header = "Caminhões Disponíveis",
+        close_menu = "⬅ Fechar Menu",
     },
     mission = {
-        store_reached = "Store reached, get a box in the trunk with [E] and deliver to marker",
-        take_box = "Take A Box Of Products",
-        deliver_box = "Deliver Box Of Products",
-        another_box = "Get another Box Of Products",
-        goto_next_point = "You Have Delivered All Products, To The Next Point",
-        return_to_station = "You Have Delivered All Products, Return to Station",
-        job_completed = "You Have Completed Your Route, Please Collect Your Pay Cheque"
+        store_reached = "Loja alcançada, pegue uma caixa no porta-malas com [E] e entregue no marcador",
+        take_box = "Pegar uma caixa de produtos",
+        deliver_box = "Entregar caixa de produtos",
+        another_box = "Pegar outra caixa de produtos",
+        goto_next_point = "Você entregou todos os produtos, vá para o próximo ponto",
+        return_to_station = "Você entregou todos os produtos, retorne à estação",
+        job_completed = "Você concluiu sua rota, por favor, pegue seu contracheque"
     },
     info = {
-        deliver_e = "~g~E~w~ - Deliver Products",
-        deliver = "Deliver Products",
+        deliver_e = "~g~E~w~ - Entregar Produtos",
+        deliver = "Entregar Produtos",
     }
 }
 
