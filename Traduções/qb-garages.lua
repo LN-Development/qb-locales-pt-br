@@ -31,7 +31,7 @@ local Translations = {
             depot_air = "Depósito  %{value}",
             depot_rig = "Depósito  %{value}",
             vehicles = "Veículos Disponíveis",
-            depot = "%{value} [ $%{value2} ]",
+            depot = "%{value} [ R$%{value2} ]",
             garage = "%{value} [ %{value2} ]",
             unavailable_vehicle_model = "%{vehicle} | Veículo Indisponível",
         },
