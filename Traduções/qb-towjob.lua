@@ -30,7 +30,7 @@ local Translations = {
     info = {
         tow = "Coloque um carro na parte de trás da sua plataforma",
         toggle_npc = "Alternar Trabalho de Paulista",
-        skick = "Tentativa de abuso de exploit",
+        skick = "Tentativa de abuso de explorar",
     },
     label = {
         payslip = "Contracheque",
