@@ -5,7 +5,7 @@ local Translations = {
         no_stand = 'Você não possui um carrinho de hotdog',
         cust_refused = 'Cliente recusou!',
         no_stand_found = 'Seu carrinho de hotdog não foi encontrado em nenhum lugar, você não receberá seu depósito de volta!',
-        no_more = "Você não tem mais %{value} disso na frente do conselho',
+        no_more = 'Você não tem mais %{value} disso na frente do conselho',
         deposit_notreturned = 'Você não tinha um carrinho de hotdog',
         no_dogs = 'Você não possui nenhum hotdog',
     },
@@ -33,9 +33,9 @@ local Translations = {
         sell_dogs = '[~g~7~s~] Vender %{value} x HotDogs por R$%{value2} / [~g~8~s~] Rejeitar',
         sell_dogs_target = 'Vender %{value} x HotDogs por R$%{value2}',
         admin_removed = "Carrinho de Cachorro-quente Removido",
-        label_a = "Perfeito (A)",
-        label_b = "Raro (B)",
-        label_c = "Comum (C)"
+        label_a = 'Perfeito (A)',
+        label_b = 'Raro (B)',
+        label_c = 'Comum (C)',
     },
         keymapping = {
         gkey = 'Soltar carrinho de cachorro-quente',
