@@ -1,30 +1,30 @@
 local Translations = {
     error = {
-        ["already_mission"] = "You Are Already Doing An NPC Mission",
-        ["not_in_taxi"] = "You Are Not In A Taxi",
-        ["missing_meter"] = "This Vehicle Has No Taxi Meter",
-        ["no_vehicle"] = "You're not in a vehicle",
-        ["not_active_meter"] = "The Taxi Meter Is Not Active",
-        ["no_meter_sight"] = "No Taxi Meter In Sight",
+        ["already_mission"] = "Você já está realizando uma missão de Paulista",
+        ["not_in_taxi"] = "Você não está em um táxi",
+        ["missing_meter"] = "Este veículo não possui um taxímetro",
+        ["no_vehicle"] = "Você não está em um veículo",
+        ["not_active_meter"] = "O taxímetro não está ativo",
+        ["no_meter_sight"] = "Nenhum taxímetro à vista",
     },
     success = {},
     info = {
-        ["person_was_dropped_off"] = "Person Was Dropped Off!",
-        ["npc_on_gps"] = "The NPC Is Indicated On Your GPS",
-        ["go_to_location"] = "Bring The NPC To The Specified Location",
-        ["vehicle_parking"] = "[E] Vehicle Parking",
-        ["job_vehicles"] = "[E] Job Vehicles",
-        ["drop_off_npc"] = "[E] Drop Off NPC",
-        ["call_npc"] = "[E] Call NPC",
-        ["blip_name"] = "Downtown Cab",
-        ["taxi_label_1"] = "Standard Cab",
-        ["no_spawn_point"] = "Unable to find a location to bring the cab",
-        ["taxi_returned"] = "Cab Parked"
+        ["person_was_dropped_off"] = "A pessoa foi deixada!",
+        ["npc_on_gps"] = "O Paulista está indicado no seu GPS",
+        ["go_to_location"] = "Leve o NPC para o local especificado",
+        ["vehicle_parking"] = "[E] Estacionar Veículo",
+        ["job_vehicles"] = "[E] Veículos de trabalho",
+        ["drop_off_npc"] = "[E] Deixar o Paulista",
+        ["call_npc"] = "[E] Chamar o Paulista",
+        ["blip_name"] = "Central de Táxi",
+        ["taxi_label_1"] = "Táxi Padrão",
+        ["no_spawn_point"] = "Não foi possível encontrar um local para levar o táxi",
+        ["taxi_returned"] = "Taxi Estacionado"
     },
     menu = {
-        ["taxi_menu_header"] = "Taxi Vehicles",
-        ["close_menu"] = "⬅ Close Menu",
-        ['boss_menu'] = "Boss Menu"
+        ["taxi_menu_header"] = "Veículos de Táxi",
+        ["close_menu"] = "⬅ Fechar Menu",
+        ['boss_menu'] = "Menu do Chefe"
     }
 }
 
