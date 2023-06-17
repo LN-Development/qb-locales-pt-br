@@ -1,14 +1,14 @@
 local Translations = {
     info = {
-        open_shop = "[E] Shop",
-        sell_chips = "[E] Sell Chips"
+        open_shop = "[E] Abrir Loja",
+        sell_chips = "[E] Vender Chips"
     },
     error = {
-        dealer_decline = "The dealer declines to show you firearms",
-        talk_cop = "Speak with law enforcement to get a firearms license"
+        dealer_decline = "O revendedor se recusa a mostrar armas de fogo para você",
+        talk_cop = "Converse com a Polícia Cívil para obter uma licença de armas de fogo"
     },
     success = {
-        dealer_verify = "The dealer verifies your license"
+        dealer_verify = "O revendedor verifica sua licença"
     },
 }
 
