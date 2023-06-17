@@ -1,31 +1,31 @@
 local Translations = {
     error = {
-        canceled = 'Canceled',
-        max_ammo = 'Max Ammo Capacity',
-        no_weapon = 'You have no weapon.',
-        no_support_attachment = 'This weapon does not support this attachment.',
-        no_weapon_in_hand = 'You dont have a weapon in your hand.',
-        weapon_broken = 'This weapon is broken and can not be used.',
-        no_damage_on_weapon = 'This weapon is not damaged..',
-        weapon_broken_need_repair = 'Your weapon is broken, you need to repair it before you can use it again.',
-        attachment_already_on_weapon = 'You already have a %{value} on your weapon.'
+        canceled = 'Cancelado',
+        max_ammo = 'Capacidade máxima de munição',
+        no_weapon = 'Você não tem nenhuma arma.',
+        no_support_attachment = 'Esta arma não suporta este acessório.',
+        no_weapon_in_hand = 'Você não tem uma arma na mão.',
+        weapon_broken = 'Esta arma está quebrada e não pode ser usada.',
+        no_damage_on_weapon = 'Esta arma não está danificada..',
+        weapon_broken_need_repair = 'Sua arma está quebrada, você precisa consertá-la antes de poder usá-la novamente.',
+        attachment_already_on_weapon = 'Você já tem um(a) %{value} em sua arma.'
     },
     success = {
-        reloaded = 'Reloaded'
+        reloaded = 'Recarregado'
     },
     info = {
-        loading_bullets = 'Loading Bullets',
-        repairshop_not_usable = 'The repairshop in this moment is ~r~NOT~w~ usable.',
-        weapon_will_repair = 'Your weapon will be repaired.',
-        take_weapon_back = '[E] - Take Weapon Back',
-        repair_weapon_price = '[E] Repair Weapon, ~g~$%{value}~w~',
-        removed_attachment = 'You removed %{value} from your weapon!',
-        hp_of_weapon = 'Durability of your weapon'
+        loading_bullets = 'Carregando munições',
+        repairshop_not_usable = 'A oficina de reparos neste momento não está ~r~DISPONÍVEL~w~ neste momento.',
+        weapon_will_repair = 'Sua arma será consertada.',
+        take_weapon_back = '[E] - Pegar arma de volta'',
+        repair_weapon_price = '[E] Reparar arma, ~g~R$%{value}~w~',
+        removed_attachment = 'Você removeu %{value} da sua arma!',
+        hp_of_weapon = 'Durabilidade da sua arma'
     },
     mail = {
         sender = 'Tyrone',
-        subject = 'Repair',
-        message = 'Your %{value} is repaired u can pick it up at the location. <br><br> Peace out madafaka'
+        subject = 'Reparo',
+        message = 'Sua %{value} foi reparada e você pode retirá-la no local. <br><br> Até mais, brother'
     },
 }
 
