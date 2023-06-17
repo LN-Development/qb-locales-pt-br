@@ -1,23 +1,23 @@
 local Translations = {
     error = {
-        smash_own = "You can't smash a vehicle that owns it.",
-        cannot_scrap = "This Vehicle Cannot Be Scrapped.",
-        not_driver = "You Are Not The Driver",
-        demolish_vehicle = "You Are Not Allowed To Demolish Vehicles Now",
-        canceled = "Canceled",
+        smash_own = "Você não pode destruir um veículo que é seu.",
+        cannot_scrap = "Este veículo não pode ser desmontado.",
+        not_driver = "Você não é o motorista",
+        demolish_vehicle = "You Are Not Allowed To Demolish Vehicles NowVocê não tem permissão para demolir veículos agora",
+        canceled = "Cancelado",
     },
     text = {
-        scrapyard = 'Scrap Yard',
-        disassemble_vehicle = '[E] - Disassemble Vehicle',
-        disassemble_vehicle_target = 'Disassemble Vehicle',
-        email_list = "[E] - E-mail Vehicle List",
-        email_list_target = "E-mail Vehicle List",
-        demolish_vehicle = "Demolish Vehicle",
+        scrapyard = 'Ferro-velho',
+        disassemble_vehicle = '[E] - Desmontar Veículo',
+        disassemble_vehicle_target = 'Desmontar Veículo',
+        email_list = "[E] - Enviar Lista de Veículos por E-mail",
+        email_list_target = "Enviar Lista de Veículos por E-mail",
+        demolish_vehicle = "Demolir Veículo",
     },
     email = {
-        sender = "Turner’s Auto Wrecking",
-        subject = "Vehicle List",
-        message = "You Can Only Demolish A Number Of Vehicles.<br />You Can Keep Everything You Demolish For Yourself As Long As You Dont Bother Me.<br /><br /><strong>Vehicle List:</strong><br />",
+        sender = "Desmanche de Veículos Turner",
+        subject = "Lista de Veículos",
+        message = "Você só pode demolir uma quantidade limitada de veículos.<br />Você pode ficar com tudo o que demolir, desde que não me incomode.<br /><br /><strong>Lista de Veículos:</strong><br />",
     },
 }
 
