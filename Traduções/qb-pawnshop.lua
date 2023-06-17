@@ -6,7 +6,7 @@ local Translations = {
         inventory_full = 'Inventário muito cheio para receber todos os itens possíveis. Tente garantir que o inventário não esteja cheio da próxima vez. Itens Perdidos: %{value}'
     },
     success = {
-        sold = 'Você vendeu %{value} x %{value2} por $%{value3}',
+        sold = 'Você vendeu %{value} x %{value2} por R$%{value3}',
         items_received = 'Você recebeu %{value} x %{value2}',
     },
     info = {
