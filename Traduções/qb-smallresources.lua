@@ -28,8 +28,8 @@ local Translations = {
         armor_full = "Você já tem colete suficiente!",
         armor_empty = "Sem colete..",
         armor_progress = "Colocando o colete",
-        heavy_armor_progress = "Colocando a armadura corporal..",
-        remove_armor_progress = "Removendo a armadura corporal..",
+        heavy_armor_progress = "Colocando colete pesado..",
+        remove_armor_progress = "Removendo colete pesado..",
         canceled = "Cancelado..",
     },
     cruise = {
