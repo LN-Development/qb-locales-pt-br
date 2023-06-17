@@ -54,7 +54,7 @@ local Translations = {
         no_car = "Você não está em um carro."
     },
     teleport = {
-        teleport_default = 'Usar Elevador''
+        teleport_default = 'Usar Elevador'
     },
     pushcar = {
         stop_push = "[E] Parar de Empurrar"
