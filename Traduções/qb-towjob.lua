@@ -6,12 +6,12 @@ local Translations = {
         not_towing_vehicle = "Você precisa estar no seu veículo de reboque",
         too_far_away = "Você está muito longe",
         no_work_done = "Você ainda não fez nenhum trabalho",
-        no_deposit = "Depósito de $%{value} necessário",
+        no_deposit = "Depósito de R$%{value} necessário",
     },
     success = {
-        paid_with_cash = "Depósito de $%{value} pago em dinheiro",
-        paid_with_bank = "Depósito de $%{value} pago pelo banco",
-        refund_to_cash = "Reembolso de $%{value} pago em dinheiro",
+        paid_with_cash = "Depósito de R$%{value} pago em dinheiro",
+        paid_with_bank = "Depósito de R$%{value} pago pelo banco",
+        refund_to_cash = "Reembolso de R$%{value} pago em dinheiro",
         you_earned = "Você ganhou $%{value}",
     },
     menu = {
