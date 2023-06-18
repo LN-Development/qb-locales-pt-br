@@ -1,23 +1,23 @@
 local Translations = {
     discord = {
         ["title"]    = "%{title}",
-        ["driver"]   = "Driver %{driver}",
-        ["model"]    = "Model %{model}",
-        ["plate"]    = "Plate %{plate}",
-        ["speed"]    = "Speed %{speed} %{displaymph}",
-        ["maxspeed"] = "Max Speed %{maxspeed}",
-        ["radar"]    = "Street %{street}",
-        ["fine"]     = "Fine $%{fine}",
-        ["vehicle"]  = "Vehicle",
+        ["driver"]   = "Motorista %{driver}",
+        ["model"]    = "Modelo %{model}",
+        ["plate"]    = "Placa %{plate}",
+        ["speed"]    = "Velocidade %{speed} %{displaymph}",
+        ["maxspeed"] = "Velocidade Máxima %{maxspeed}",
+        ["radar"]    = "Rua %{street}",
+        ["fine"]     = "Multa $%{fine}",
+        ["vehicle"]  = "Veículo",
 
     },
     notify = {
-        ["flashed"]  = "You got flashed for driving too fast you crazy boy",
-        ["payfine"]  = "You have paid a fine of $%{amount} you crazy boy", 
+        ["flashed"]  = "Você foi flagrado por dirigir muito rápido, seu maluco",
+        ["payfine"]  = "Você pagou uma multa de R$%{amount}, seu maluco", 
     },
     blip = {
-        title1 = "Speed Camera",
-        title2 = "Speed Camera %{maxspeed}",
+        title1 = "Radar de Velocidade",
+        title2 = "Speed CamRadar de Velocidadeera %{maxspeed}",
     }
 }
 Lang = Locale:new({
