@@ -27,7 +27,7 @@ Config.MenuItems = {
                 shouldClose = true
             }, {
                 id = 'cornerselling',
-                title = 'Corner Selling',
+                title = 'Vender Drogas',
                 icon = 'cannabis',
                 type = 'client',
                 event = 'qb-drugs:client:cornerselling',
@@ -143,7 +143,7 @@ Config.MenuItems = {
                         items = {
                             {
                                 id = 'setstash',
-                                title = 'Set Stash',
+                                title = 'Setar Baú',
                                 icon = 'box-open',
                                 type = 'client',
                                 event = 'qb-houses:client:setLocation',
@@ -201,7 +201,7 @@ Config.MenuItems = {
                         shouldClose = true
                     }, {
                         id = 'Shirt',
-                        title = 'Shirt',
+                        title = 'Jaqueta',
                         icon = 'shirt',
                         type = 'client',
                         event = 'qb-radialmenu:ToggleClothing',
